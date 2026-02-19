@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+room_check.log*
+debug_*.png
+.env

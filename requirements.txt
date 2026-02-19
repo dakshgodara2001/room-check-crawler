@@ -1,0 +1,12 @@
+# Haryana PWD Guest House Crawler — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# Browser automation (includes async API)
+playwright>=1.44.0
+
+# Job scheduling
+schedule>=1.2.1
+
+# Optional: faster HTML parsing for large result tables
+beautifulsoup4>=4.12.3
+lxml>=5.2.1
