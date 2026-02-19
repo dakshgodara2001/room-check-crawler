@@ -1,4 +1,4 @@
-# Haryana PWD Guest House — Room Availability Crawler
+# Guest House Room Availability Crawler
 
 Automated checker for [hryguesthouse.gov.in](https://www.hryguesthouse.gov.in/frmmainlogin.aspx).
 Runs twice a day, scrapes availability for the next 15 days across five target locations,
